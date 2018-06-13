@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Icon
+Bundle-SymbolicName: com.iezview.resources.icon;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Vendor: IEZVIEW
+Require-Bundle: org.eclipse.core.resources
+Automatic-Module-Name: com.iezview.resources.icon
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
